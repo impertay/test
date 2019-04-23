@@ -1,0 +1,16 @@
+{
+  "main.css": "/test/static/css/main.2bcd4f9c.chunk.css",
+  "main.js": "/test/static/js/main.15b6f055.chunk.js",
+  "main.js.map": "/test/static/js/main.15b6f055.chunk.js.map",
+  "runtime~main.js": "/test/static/js/runtime~main.eded8796.js",
+  "runtime~main.js.map": "/test/static/js/runtime~main.eded8796.js.map",
+  "static/css/2.d02486b8.chunk.css": "/test/static/css/2.d02486b8.chunk.css",
+  "static/js/2.23a9eeab.chunk.js": "/test/static/js/2.23a9eeab.chunk.js",
+  "static/js/2.23a9eeab.chunk.js.map": "/test/static/js/2.23a9eeab.chunk.js.map",
+  "index.html": "/test/index.html",
+  "precache-manifest.61c475b4ba76acab739521a6f9a16a62.js": "/test/precache-manifest.61c475b4ba76acab739521a6f9a16a62.js",
+  "service-worker.js": "/test/service-worker.js",
+  "static/css/2.d02486b8.chunk.css.map": "/test/static/css/2.d02486b8.chunk.css.map",
+  "static/css/main.2bcd4f9c.chunk.css.map": "/test/static/css/main.2bcd4f9c.chunk.css.map",
+  "static/media/persik.png": "/test/static/media/persik.4e1ec840.png"
+}
